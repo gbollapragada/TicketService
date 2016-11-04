@@ -1,0 +1,7 @@
+.README.md.swp
+.classpath
+.project
+README.md~
+target/
+*.swp
+*.*~
